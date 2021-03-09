@@ -1,0 +1,124 @@
+Time: Thu Dec  3 23:35:58 2020
+
+Time: Thu Dec  3 23:35:58 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+301   309B   http://10.10.109.23:80/js    -> REDIRECTS TO: http://10.10.109.23/js/
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccess.orig
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccessOLD
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccessOLD2
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.httr-oauth
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.html
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccess.sample
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccessBAK
+403   277B   http://10.10.109.23:80/.htaccess.save
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htm
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:05 2020
+
+403   277B   http://10.10.109.23:80/.htaccess.bak1
+Time: Thu Dec  3 23:36:05 2020
+
+Time: Thu Dec  3 23:36:08 2020
+
+Time: Thu Dec  3 23:36:08 2020
+
+403   277B   http://10.10.109.23:80/.php
+Time: Thu Dec  3 23:36:42 2020
+
+Time: Thu Dec  3 23:36:42 2020
+
+200    21KB  http://10.10.109.23:80/about.html
+Time: Thu Dec  3 23:37:45 2020
+
+Time: Thu Dec  3 23:37:45 2020
+
+Time: Thu Dec  3 23:37:46 2020
+
+200     0B   http://10.10.109.23:80/contact.php
+Time: Thu Dec  3 23:37:46 2020
+
+Time: Thu Dec  3 23:37:48 2020
+
+200    18KB  http://10.10.109.23:80/contact.html
+301   310B   http://10.10.109.23:80/css    -> REDIRECTS TO: http://10.10.109.23/css/
+Time: Thu Dec  3 23:37:48 2020
+
+Time: Thu Dec  3 23:38:00 2020
+
+Time: Thu Dec  3 23:38:00 2020
+
+301   312B   http://10.10.109.23:80/fonts    -> REDIRECTS TO: http://10.10.109.23/fonts/
+Time: Thu Dec  3 23:38:09 2020
+
+Time: Thu Dec  3 23:38:09 2020
+
+301   313B   http://10.10.109.23:80/images    -> REDIRECTS TO: http://10.10.109.23/images/
+Time: Thu Dec  3 23:38:10 2020
+
+Time: Thu Dec  3 23:38:10 2020
+
+200    16KB  http://10.10.109.23:80/images/
+Time: Thu Dec  3 23:38:12 2020
+
+Time: Thu Dec  3 23:38:12 2020
+
+200    34KB  http://10.10.109.23:80/index.html
+Time: Thu Dec  3 23:38:34 2020
+
+Time: Thu Dec  3 23:38:34 2020
+
+200    19KB  http://10.10.109.23:80/news.html
+Time: Thu Dec  3 23:38:55 2020
+
+Time: Thu Dec  3 23:38:55 2020
+
+200   168B   http://10.10.109.23:80/secret/
+Time: Thu Dec  3 23:38:55 2020
+
+Time: Thu Dec  3 23:38:55 2020
+
+Time: Thu Dec  3 23:38:55 2020
+
+301   313B   http://10.10.109.23:80/secret    -> REDIRECTS TO: http://10.10.109.23/secret/
+Time: Thu Dec  3 23:38:55 2020
+
+403   277B   http://10.10.109.23:80/server-status
+Time: Thu Dec  3 23:38:55 2020
+
+Time: Thu Dec  3 23:38:55 2020
+
