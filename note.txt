@@ -11,5 +11,6 @@ run nessus: /bin/systemctl start nessusd.service
 
 find string: grep <location> <string>  . -r
 
-
+samba enum script for nmap: nmap -p 445 --script=smb-enum-shares.nse,smb-enum-users.nse <ip>
+script for npcbind: --script=nfs-ls,nfs-statfs,nfs-showmount 
 
